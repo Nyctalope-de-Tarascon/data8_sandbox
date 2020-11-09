@@ -1,0 +1,2 @@
+toto = 'turlututu'
+print(toto)
